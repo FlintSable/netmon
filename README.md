@@ -4,8 +4,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a start to a network monitoring terminal application.
 
 Here's what works and doesn't:
